@@ -1,0 +1,2 @@
+# Python-for-Computer-Vision-with-OpenCV-and-Deep-Learning---Udemy-Coursework
+This repository contains the coursework and projects I completed while taking the "Python for Computer Vision with OpenCV and Deep Learning" course on Udemy. The course provided an in-depth introduction to computer vision using Python and OpenCV, along with an exploration of deep learning concepts applied to image processing.
